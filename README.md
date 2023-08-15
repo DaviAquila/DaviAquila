@@ -16,4 +16,4 @@
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 
-Estudo Desenvolvimento de Software Multiplatafroma na Fatec de Itapira, atualmente estou no 3° semestre, sempre gostei de tecnologia, e acabei me apaixonando por programação. 
+Estudo Desenvolvimento de Software Multiplatafroma na Fatec de Itapira, atualmente estou no 4° semestre, sempre gostei de tecnologia, e acabei me apaixonando por programação. 
