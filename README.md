@@ -5,7 +5,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/davi-programador/)
 
-![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviAquila&theme=dark&show_icons=true)
+![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviAquila&theme=shadow_red&show_icons=true)
 
 ### Tecnologias que eu uso no meu dia
 
